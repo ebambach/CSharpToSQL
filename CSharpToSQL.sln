@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpToSQL", "CSharpToSQL\CSharpToSQL.csproj", "{2092B06A-2DD5-4A9A-A8EF-59280B6378C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCSharpToSQL", "TestCSharpToSQL\TestCSharpToSQL.csproj", "{AA2EE590-2AFD-43F9-BEB8-9DAE6056CECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2092B06A-2DD5-4A9A-A8EF-59280B6378C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2092B06A-2DD5-4A9A-A8EF-59280B6378C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2092B06A-2DD5-4A9A-A8EF-59280B6378C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2092B06A-2DD5-4A9A-A8EF-59280B6378C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2EE590-2AFD-43F9-BEB8-9DAE6056CECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2EE590-2AFD-43F9-BEB8-9DAE6056CECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2EE590-2AFD-43F9-BEB8-9DAE6056CECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2EE590-2AFD-43F9-BEB8-9DAE6056CECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AAE439F-ACA1-4754-B105-6B76215F1325}
+	EndGlobalSection
+EndGlobal

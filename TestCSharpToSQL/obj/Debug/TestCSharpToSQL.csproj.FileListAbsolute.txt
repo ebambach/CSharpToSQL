@@ -1,0 +1,9 @@
+C:\repos\CSharpToSQL\TestCSharpToSQL\bin\Debug\TestCSharpToSQL.exe.config
+C:\repos\CSharpToSQL\TestCSharpToSQL\bin\Debug\TestCSharpToSQL.exe
+C:\repos\CSharpToSQL\TestCSharpToSQL\bin\Debug\TestCSharpToSQL.pdb
+C:\repos\CSharpToSQL\TestCSharpToSQL\bin\Debug\CSharpToSQL.dll
+C:\repos\CSharpToSQL\TestCSharpToSQL\bin\Debug\CSharpToSQL.pdb
+C:\repos\CSharpToSQL\TestCSharpToSQL\obj\Debug\TestCSharpToSQL.csprojResolveAssemblyReference.cache
+C:\repos\CSharpToSQL\TestCSharpToSQL\obj\Debug\TestCSharpToSQL.csproj.CoreCompileInputs.cache
+C:\repos\CSharpToSQL\TestCSharpToSQL\obj\Debug\TestCSharpToSQL.exe
+C:\repos\CSharpToSQL\TestCSharpToSQL\obj\Debug\TestCSharpToSQL.pdb

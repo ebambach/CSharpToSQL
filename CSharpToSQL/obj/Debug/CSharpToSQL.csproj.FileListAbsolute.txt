@@ -1,0 +1,6 @@
+C:\repos\CSharpToSQL\CSharpToSQL\bin\Debug\CSharpToSQL.dll
+C:\repos\CSharpToSQL\CSharpToSQL\bin\Debug\CSharpToSQL.pdb
+C:\repos\CSharpToSQL\CSharpToSQL\obj\Debug\CSharpToSQL.csprojResolveAssemblyReference.cache
+C:\repos\CSharpToSQL\CSharpToSQL\obj\Debug\CSharpToSQL.csproj.CoreCompileInputs.cache
+C:\repos\CSharpToSQL\CSharpToSQL\obj\Debug\CSharpToSQL.dll
+C:\repos\CSharpToSQL\CSharpToSQL\obj\Debug\CSharpToSQL.pdb
